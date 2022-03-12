@@ -1,7 +1,7 @@
-import React from 'react'
-
+import React from 'react';
+import './Rocket.scss';
 export default function Rocket(props:any) {
   return (
-    <div>{props.label}</div>
+    <div className="red">{props.label}</div>
   )
 }
