@@ -1,6 +1,6 @@
 {
   "name": "rocket-to-top",
-  "version": "0.0.4",
+  "version": "0.1.3",
   "description": "to the moon",
   "scripts": {
     "rollup": "rollup -c",
